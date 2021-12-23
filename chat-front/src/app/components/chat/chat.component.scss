@@ -1,0 +1,39 @@
+.rows {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.circles{
+  height: 70px;
+  width: 70px;
+  border-radius: 50%;
+  background: #99BDFB;
+  border : 2px solid #fff;
+  text-align: center;
+  line-height: 100px;
+  display: flex;
+  font-size: 20px;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+.avatar-msg{
+  height: 40px;
+  width: 40px;
+  border-radius: 50%;
+  background: #F9AF8F;
+  border : 2px solid #fff;
+  text-align: center;
+  line-height: 100px;
+  display: flex;
+  font-size: 20px;
+  color: white;
+  align-items: center;
+  justify-content: center;
+}
+
+.active-icon {
+  color: #147BDF!important;;
+}
+
+
